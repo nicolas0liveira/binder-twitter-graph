@@ -2,3 +2,7 @@ ssh
 htop
 openjdk-8-jdk
 wget
+vim
+curl
+net-tools
+nodejs
