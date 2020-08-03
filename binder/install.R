@@ -1,6 +1,6 @@
 
 install.packages("BatchGetSymbols")
-d
+
 install.packages("curl") 
 
 install.packages("dplyr")
